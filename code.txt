@@ -8,6 +8,4 @@ and valid password
 also check for invalid username
 and invalid password
 
-check for valid username and invalid password.
-
 Sandeep
