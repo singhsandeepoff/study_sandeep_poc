@@ -5,6 +5,8 @@ to check login of a page
 user valid username
 and valid password
 
+check for valid username and invalid password.
+
 also check for invalid username
 and invalid password
 
