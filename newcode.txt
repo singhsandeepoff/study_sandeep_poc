@@ -1,0 +1,18 @@
+Hello
+This file contains test material
+
+to check login of a page
+user valid username
+and valid password
+
+check for valid username and invalid password.
+
+also check for invalid username
+and invalid password
+
+This is the final code.
+
+adding sign up option to the login page.
+adding forgot password option as well.
+
+Sandeep
